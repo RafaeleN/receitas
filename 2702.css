@@ -1,0 +1,69 @@
+.nquero{
+    background: rgb(150, 48, 141);
+    width: 390;
+    border-radius: 20px;
+    box-shadow: 4px 4px;
+
+    text-align: center;
+    padding-top: 0px;
+    font-size: 50px;
+}
+.ii{
+    text-align: center;
+    border: 50px;
+    border-radius: 20px;
+    box-shadow: 4px 4px;
+    margin-left: 600px;
+    font-weight: bold;
+    margin-right: 600px;
+    background: rgb(252, 205, 252);
+}
+.video{
+    text-align: center;
+    border: 100px;
+    border-color: aquamarine;
+    box-shadow: 4px 4px;
+    margin-left: 600px;
+    font-weight: bold;
+    margin-right: 600px;
+    background: rgb(252, 205, 252);
+    border-radius: 20px;
+    border-image-width: 60px;
+    
+}
+.lista{
+    text-align: center;
+    border: 50px;
+    background: rgb(252, 205, 252);
+    width: 400;
+    border-radius: 20px;
+    box-shadow: 4px 4px;
+    margin-left: 600px;
+    font-weight: bold;
+    margin-right: 600px;
+    margin-top: 40px;
+}
+.ista{
+    text-align: center;
+    border: 50px;
+    background: rgb(252, 205, 252);
+    width: 400;
+    border-radius: 20px;
+    box-shadow: 4px 4px;
+    margin-left: 600px;
+    font-weight: bold;
+    margin-right: 600px;
+    margin-top: 00px;
+}
+.dica{
+    text-align: center;
+    border: 50px;
+    background: rgb(252, 205, 252);
+    width: 400;
+    border-radius: 20px;
+    box-shadow: 4px 4px;
+    margin-left: 600px;
+    font-weight: bold;
+    margin-right: 600px;
+    margin-top: 40px;
+}
